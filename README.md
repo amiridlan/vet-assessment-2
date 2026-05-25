@@ -192,40 +192,6 @@ update the sprint file
 
 ---
 
-**Prompt 6 — Restructure README**
-
-```
-High-Level Approach: Describe your strategy. Did you use a single prompt or
-a chain? How did you structure the logic?
-
-Final Prompts: A clear, copy-pastable version of the final prompt(s) you
-engineered.
-
-Challenges & Iterations: Briefly describe any challenges you faced and how
-you iterated on your prompts to solve them.
-
-add these to the README.md file. Justification of Tools should be placed
-above all of these. Challenges & Iterations should be under Instructions
-(How To Run). remove sprint plan from the README.md
-```
-
----
-
-## Features
-
-- **Columns** — Add, rename, delete, and reorder columns via drag
-- **Task Cards** — Create and delete tasks; see priority, due date, assignee, and labels at a glance
-- **Task Detail Modal** — Edit title, description, due date, priority; assign users; manage labels
-- **Simulated Users** — Choose from a preset roster of 6 team members with color-coded avatars
-- **Labels / Tags** — Create custom labels with names and colors; assign multiple labels per task
-- **Filtering** — Filter the board by assignee, label, and priority simultaneously
-- **Drag & Drop** — Reorder cards within columns and move cards across columns; reorder columns
-- **Persistence** — All data auto-saves to localStorage and survives hard page reloads
-- **Import / Export** — Download the full board as JSON or restore from a previous export
-- **Responsive** — Usable on mobile (375px) through widescreen (1440px+)
-
----
-
 ## How to Run
 
 ### Prerequisites
